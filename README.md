@@ -1,4 +1,4 @@
-[banner](https://github.com/punesmartcity/hackathon/blob/master/banner.jpg "Pune Smart City Hackathon")
+![alt text](https://github.com/punesmartcity/hackathon/blob/master/banner.jpg "Pune Smart City Hackathon")
 
 ## Welcome to GitHub Pages
 
