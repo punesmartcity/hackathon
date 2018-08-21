@@ -1,4 +1,4 @@
-![Pune Smart City Hackathon](https://raw.githubusercontent.com/punesmartcity/hackathon/master/banner.jpg "")
+![Pune Smart City Hackathon](https://raw.githubusercontent.com/punesmartcity/hackathon/master/banner.jpg "Pune Smart City Hackathon")
 
 ## NITI Aayog - Pune Smart City Hackathon
 
