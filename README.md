@@ -10,34 +10,67 @@ Pune Smart City is organizing the first **Smart City Hackathon** in association 
 
 The Hackathon participants are encouraged to put on the technology hats and **provide sustainable solutions** for the city. The solutio can either be an up-and-running product or an innovative idea with a working prototype. 
 
+---
+
 ## THEMES for Hackathon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Water Management
+2. Solid Waste Management
+3. Safety and Security
+4. Public Health
+5. Digital Connectivity
 
-```markdown
-Syntax highlighted code block
+[Queries](https://www.hackerearth.com/sprints/niti-aayog-pune-smart-city-hackathon/faq/#faq)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+The best team, each in Solutionthon and Ideathon tracks, across the five themes combined, will qualify for a cash reward of INR 2 Lac each. Three more teams in each track may qualify for an award of INR 1 Lac each in the event that the entries are adjudged to be of an exceptional quality by the jury.
 
-1. Numbered
-2. List
+What's more!!!
 
-**Bold** and _Italic_ and `Code` text
+The top Teams stand a chance to be potentially incubated by Pune Smart City.
 
-[Link](url) and ![Image](src)
-```
+[Connect with us](https://www.hackerearth.com/sprints/niti-aayog-pune-smart-city-hackathon/discussion/#discussion)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
 
-### Jekyll Themes
+.fa:hover {
+    opacity: 0.7;
+}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/punesmartcity/hackathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 
-### Support or Contact
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+</style>
+
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-youtube"></a>
+<a href="#" class="fa fa-instagram"></a>
