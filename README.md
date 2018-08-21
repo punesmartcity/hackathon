@@ -40,3 +40,6 @@ The top Teams stand a chance to be potentially incubated by Pune Smart City.
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
+
+
+Updated 4:23
