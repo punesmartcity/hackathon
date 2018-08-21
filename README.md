@@ -1,12 +1,16 @@
 ![Pune Smart City Hackathon](https://raw.githubusercontent.com/punesmartcity/hackathon/master/banner.jpg "")
 
-## Welcome to GitHub Pages
+## NITI Aayog - Pune Smart City Hackathon
 
-You can use the [editor on GitHub](https://github.com/punesmartcity/hackathon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Let's Co-Innovate to make our Cities Smarter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Registration and more information](https://www.hackerearth.com/sprints/niti-aayog-pune-smart-city-hackathon/)
 
-### Markdown
+Pune Smart City is organizing the first **Smart City Hackathon** in association with **NITI Aayog** where participants will come together to work on prototypes/ideas which would solve some of the key urban governance issues of Pune city in a sustainable manner.
+
+The Hackathon participants are encouraged to put on the technology hats and **provide sustainable solutions** for the city. The solutio can either be an up-and-running product or an innovative idea with a working prototype. 
+
+## THEMES for Hackathon
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
